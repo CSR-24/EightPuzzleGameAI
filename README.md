@@ -16,3 +16,6 @@ Prerequisties
 
 
 To run the exe file. Extract the setup and run DosBox then navigate to the setup bin folder and type game.
+
+
+DosBox : http://www.dosbox.com/ 
