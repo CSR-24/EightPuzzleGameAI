@@ -13,3 +13,6 @@ Prerequisties
 7. c) cd <to the bin folder of turbo c>
 8. d) Now to run the already build game type-> game
 9. e) To develop further type tc and open game.cpp, enjoy:)
+
+
+To run the exe file. Extract the setup and run DosBox then navigate to the setup bin folder and type game.
