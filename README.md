@@ -10,7 +10,7 @@ Prerequisties<br/>
 4. DosBox Commands:<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;a) mount G G:\  <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;b) G: <br/>
-&nbsp;&nbsp;&nbsp;&nbsp;c) cd <to the bin folder of turbo c> <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;c) cd (to the bin folder of turbo c) <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;d) Now to run the already build game type-> game<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;e) To develop further type tc and open game.cpp, enjoy:)  <br/>
 
