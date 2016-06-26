@@ -8,11 +8,11 @@ Prerequisties<br/>
 2. DosBox; mount the directory in which the compiler is etraxted and go the bin folder then:<br/>
 3. Ex: Turbo c compiler extracted i G dive.<br/>
 4. DosBox Commands:<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;a) mount G G:\<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;b) G:<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;c) cd <to the bin folder of turbo c><br/>
+&nbsp;&nbsp;&nbsp;&nbsp;a) mount G G:\  <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;b) G: <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;c) cd <to the bin folder of turbo c> <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;d) Now to run the already build game type-> game<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;e) To develop further type tc and open game.cpp, enjoy:)<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;e) To develop further type tc and open game.cpp, enjoy:)  <br/>
 
 
 To run the exe file. Extract the setup and run DosBox then navigate to the setup bin folder and type game.<br/>
